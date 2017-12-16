@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/rahmansunbeam/Laravel.git
+git remote -v
+git pull origin Branch-1 #optional
+git fetch --all
+git reset --hard origin/Branch-1
